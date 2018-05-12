@@ -1,0 +1,50 @@
+_repo: El-inten-sankareita_45286
+_version: 0.1.0
+alternative_title: Animal heroes. Finnish
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    - Inha, I. K. (Into Konrad)
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton, Wolf
+    - Seton-Thompson, Ernest
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45286'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Animals -- Folklore'
+- !lcsh 'Animals -- Anecdotes'
+tableOfContents: Lukijalle -- Takapihan kissa -- Arnaux, kirjekyyhkyn tarina -- Voitokas
+  susi -- Poika ja ilves -- Pikku Sotahevonen, mustahäntäjäniksen tarina -- Snap,
+  kertomus bullterrieristä -- Winnipegin susi -- Tarina valkoisesta porosta.
+title: Eläinten sankareita
+url: http://www.gutenberg.org/ebooks/45286
